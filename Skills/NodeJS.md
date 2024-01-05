@@ -1,7 +1,7 @@
 ## Node.js and backend
 
 -   Internals and concepts
-    -   Strong and weak sides of node.js
+    -   Strong and weak sides of node.js: 👂 heard
     -   Stateful and stateless servers
     -   Nonblocking I/O and slocking code
     -   Event loop: phases: 🎓 known
@@ -17,35 +17,35 @@
     -   Caching in CJS and ESM
     -   Modules as singletons: 🎓 known
     -   Contexts and scripts node:vm
-    -   Dependencies: npm, node_modules: 🎓 known
-    -   Dependencies: package.json and package lock: 🎓 known
+    -   Dependencies: npm, node_modules: 🖐️ used
+    -   Dependencies: package.json and package lock: 🖐️ used
     -   Module-based permissions model
     -   Isolation with modularity
-    -   Dependency injection: 🎓 known
+    -   Dependency injection: 🖐️ used
     -   DI containers
     -   Coupling and cohesion
     -   Framework agnostic approach
 -   Environment
-    -   Command line arguments: 🎓 known
-    -   Node.js CLI: 🎓 known
+    -   Command line arguments: 🖐️ used
+    -   Node.js CLI: 🖐️ used
     -   Process-based permissions
     -   Graceful shutdown
     -   Clustering
     -   Watch filesystem changes with --watch
 -   Internal API
-    -   Streams API
+    -   Streams API: 🖐️ used
     -   Web Streams API
     -   Crypto API
-    -   Password hashing with node:crypto.scrypt
+    -   Password hashing with node:crypto.scrypt: 🖐️ used
     -   Web Crypto API
     -   File system API: sync and async: 🖐️ used
     -   Copy folder recursively: 🖐️ used
-    -   Worker threads
+    -   Worker threads: 🎓 known
     -   Performance hooks
     -   Native fetch and nodejs/undici
-    -   node:async_hooks
-    -   AsyncLocalStorage
-    -   AsyncResource
+    -   node:async_hooks: 👂 heard
+    -   AsyncLocalStorage: 🎓 known
+    -   AsyncResource: 🎓 known
     -   Deprecated domain API
     -   Node.js single executable
     -   Stream back pressure
@@ -88,29 +88,29 @@
     -   Endpoint throttling: 🎓 known
     -   HTTP(S): 🎓 known
     -   TCP/SSL: 🎓 known
-    -   UDP
-    -   TLS
+    -   UDP: 👂 heard
+    -   TLS: 👂 heard
     -   Websocket: 🎓 known
     -   SSE
     -   HTTP/3 (QUIC)
     -   Long polling: 🎓 known
     -   REST: 🎓 known
     -   RPC: 🎓 known
-    -   Routing
+    -   Routing: 🖐️ used
     -   DoS: 🎓 known
     -   DDoS: 🎓 known
-    -   XSS
+    -   XSS: 🎓 known
     -   Path traversal
-    -   CSRF
+    -   CSRF: 👂 heard
     -   DNS: 🎓 known
     -   Fetch API: 🎓 known
     -   IncomingMessage
-    -   SQL injection
+    -   SQL injection: 🎓 known
     -   noDelay
-    -   keep-alive
+    -   keep-alive: 👂 heard
     -   ALPN
     -   SNI callback
-    -   SSL certificates
+    -   SSL certificates: 👂 heard
     -   Protocol agnostic approach
 -   Technique and tools
     -   Native test runner
@@ -134,7 +134,7 @@
     -   Repository
     -   Active record
     -   Query builder: 🖐️ used
-    -   Object-Relational Mapping
+    -   Object-Relational Mapping: 🎓 known
 -   Error handling and debugging
     -   Error: 🖐️ used
     -   error.cause: 🖐️ used
@@ -144,8 +144,8 @@
     -   How to avoid mixins
     -   Error.captureStackTrace
     -   Uncaught exceptions: 🎓 known
-    -   Heap dump
-    -   Debugging tools
+    -   Heap dump: 👂 heard
+    -   Debugging tools: 🎓 known
     -   Flame graph
     -   Memory leaks: 🎓 known
     -   Resource leaks
@@ -156,7 +156,7 @@
     -   Rust addons
     -   Zig addons
     -   NAN (Native Abstractions for Node.js)
-    -   Node-API (formerly N-API)
+    -   Node-API (formerly N-API): 👂 heard
     -   NAPI C and C++
     -   NAPI Rust
     -   NAPI Zig

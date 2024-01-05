@@ -19,7 +19,7 @@
     -   async iterator: 👂 heard
     -   chaining: 🖐️ used
     -   optional chaining
-    -   IIFE
+    -   IIFE: 🖐️ used
     -   global: 👂 heard
     -   globalThis: 👂 heard
     -   window: 🖐️ used
@@ -39,7 +39,7 @@
     -   in: 🖐️ used
     -   super: 🖐️ used
     -   Symbol: 🖐️ used
-    -   Reflect
+    -   Reflect: 🎓 known
 -   Statements
     -   if: 🖐️ used
     -   while: 🖐️ used
@@ -53,12 +53,12 @@
     -   continue: 🖐️ used
     -   import: 🖐️ used
     -   export: 🖐️ used
-    -   label
+    -   label: 🖐️ used
     -   try..catch: 🖐️ used
     -   switch: 🖐️ used
     -   class: 🖐️ used
     -   new Error: 🖐️ used
-    -   with
+    -   with: 🎓 known
 -   Functions
     -   function declaration: 🖐️ used
     -   function expression: 🖐️ used
@@ -74,7 +74,7 @@
     -   Set: 🖐️ used
     -   undefined: 🖐️ used
     -   null: 🖐️ used
-    -   Proxy
+    -   Proxy: 🎓 known
     -   weak collections: 🖐️ used
     -   timers: 🖐️ used
     -   EventEmitter: 🖐️ used

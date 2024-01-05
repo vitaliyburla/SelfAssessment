@@ -5,8 +5,8 @@
     -   try..catch: 🖐️ used
     -   Non-blocking: 🖐️ used
     -   Async I/O: 🖐️ used
-    -   Thread pool
-    -   Pattern Reactor
+    -   Thread pool: 🎓 known
+    -   Pattern Reactor: 👂 heard
     -   CAS operations
     -   epoll
     -   kqueue
@@ -14,13 +14,13 @@
     -   Event ports
     -   libuv
     -   Race conditions: 🖐️ used
-    -   Dead locks
-    -   Live locks
-    -   Concurrent programming
-    -   Parallel programming
+    -   Dead locks: 🎓 known
+    -   Live locks: 🎓 known
+    -   Concurrent programming: 🎓 known
+    -   Parallel programming: 🖐️ used
     -   Actor Model
-    -   Thread
-    -   Process
+    -   Thread: 🎓 known
+    -   Process: 🎓 known
 -   Async contracts
     -   Callbacks: 🖐️ used
     -   Callback-last-error-first
@@ -62,8 +62,8 @@
     -   Timers: 🖐️ used
     -   setImmediate: 👂 heard
     -   nextTick: 🖐️ used
-    -   AbortController
-    -   AbortSignal
+    -   AbortController: 🖐️ used
+    -   AbortSignal: 🖐️ used
     -   Promise unhandled rejection: 👂 heard
     -   Promise double resolve: 👂 heard
     -   child_process
@@ -78,8 +78,8 @@
     -   JSON: streaming serialization: 🖐️ used
     -   promisify
     -   callbackify
-    -   AsyncLocalStorage: 👂 heard
-    -   AsyncResource: 👂 heard
+    -   AsyncLocalStorage: 🎓 known
+    -   AsyncResource: 🎓 known
 -   Techniques
     -   async.js library
     -   RxJS library

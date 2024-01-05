@@ -18,15 +18,15 @@
     -   type: 🖐️ used
     -   primitive types: 🖐️ used
     -   reference types: 🖐️ used
-    -   flag
-    -   lexical scope
+    -   flag: 🖐️ used
+    -   lexical scope: 🖐️ used
     -   code block: 🖐️ used
     -   conditions: 🖐️ used
     -   loops: 🖐️ used
     -   assignment: 🖐️ used
     -   regular expression: 🖐️ used
     -   interface: 🖐️ used
-    -   contract
+    -   contract: 🎓 known
     -   module: 🖐️ used
     -   call stack: 🖐️ used
 -   Functions
@@ -39,23 +39,23 @@
     -   closure: 🖐️ used
     -   partial application: 👂 heard
     -   curry: 👂 heard
-    -   higher order
+    -   higher order: 🖐️ used
     -   recursion: 🖐️ usedn
     -   callback: 🖐️ used
     -   listener: 🖐️ used
-    -   compose
+    -   compose: 🎓 known
     -   pipe: 🖐️ used
     -   memoize: 🖐️ used
-    -   wrapper
-    -   functor
-    -   monad
-    -   monoid
+    -   wrapper: 🖐️ used
+    -   functor: 🖐️ used
+    -   monad: 🖐️ used
+    -   monoid: 🖐️ used
     -   generator: 🖐️ used
-    -   coroutine
+    -   coroutine: 🖐️ used
 -   Data structures
     -   array: 🖐️ used
     -   structure: 🖐️ used
-    -   record
+    -   record: 🎓 known
     -   enum: 🖐️ used
     -   instance: 🖐️ used
     -   object: 🖐️ used
@@ -94,8 +94,8 @@
     -   complexity: 🎓 known
     -   decomposition: 🎓 known
     -   spaghetti: 🎓 known
-    -   silver bullet
-    -   not invented here
+    -   silver bullet: 🎓 known
+    -   not invented here: 🎓 known
     -   dead code: 🎓 known
     -   unreachable code: 🎓 known
     -   duplicate code: 🎓 known

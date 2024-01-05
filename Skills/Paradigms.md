@@ -10,14 +10,14 @@
     -   Object-oriented programming: 🖐️ used
     -   Object-based programming: 👂 heard
     -   Generic programming: 🖐️ used
-    -   Concurrent computing
+    -   Concurrent computing: 🖐️ used
     -   Asyncronous programming: 🖐️ used
     -   Parallel programming: 🎓 known
     -   Reactive programming: 🎓 known
-    -   FRP (Functional-reactive)
-    -   Automata-based programming
+    -   FRP (Functional-reactive): 🖐️ used
+    -   Automata-based programming: 🖐️ used
     -   Domain-specific languages: 🎓 known
-    -   Multi-paradigm programming
+    -   Multi-paradigm programming: 🎓 known
     -   Metaprogramming
     -   Actor model
 -   OOP basics
@@ -39,8 +39,8 @@
     -   Hidden class: 🖐️ used
     -   Object form: 🖐️ used
     -   instance: 🖐️ used
-    -   Introspection
-    -   Reflection
+    -   Introspection: 🎓 known
+    -   Reflection: 🎓 known
 -   Patterns
     -   Singleton: 🖐️ used
     -   Factory Method: 👂 heard
