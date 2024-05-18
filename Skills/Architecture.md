@@ -1,0 +1,60 @@
+## Architecture
+
+- Application structure
+  - Modularity
+  - Components
+  - Directories
+  - GRASP
+  - SOLID
+  - GoF patterns
+  - CQS
+  - Leaking abstractions
+  - Multiparadigm code
+  - Contract programming
+  - Platform-agnostic
+  - Transport-agnostic
+  - Framework-agnostic
+- Application architecture
+  - Isolation between layer
+  - Domain-specific language (DSL)
+  - System vs applied code
+  - Multilayer approach
+  - Separation of concerns (SoC)
+  - Metaprogramming
+  - Inversion of control (IoC)
+  - Dependency injection (DI)
+  - Clean architecture
+  - Domain-driven design (DDD)
+  - Message Queue (MQ)
+  - CQRS
+  - Event sourcing
+  - Work breakdown structure
+  - Budget estimation
+  - Distributed systems
+  - High-intensive computing
+  - Load balancing
+  - Gateways
+  - On-premises
+  - IaaS
+  - PaaS
+  - SaaS
+  - FaaS clouds
+  - Serverless
+- Solution architecture
+  - A software requirements specification (SRS)
+  - Solution visions
+  - Solution capabilities
+  - System design
+  - Process modelling
+  - Data modelling
+  - Solution components
+  - Risk assessment
+  - Non Functional Requirements (NFR)
+  - Clouds
+- Enterprise architecture
+  - Understanding business needs
+  - Enterprise strategy
+  - Integration with subsystems
+  - Enterprise vision
+  - Enterprise capabilities
+  - Project scope
