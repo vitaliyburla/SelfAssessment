@@ -1,0 +1,76 @@
+## React
+
+- React Fundamentals
+  - Component-based architecture: 🖐️ used
+  - Virtual DOM: 🖐️ used
+  - JSX (JavaScript XML): 🖐️ used
+  - Rendering elements and components: 🖐️ used
+  - Component lifecycle (Mounting, Updating, Unmounting): 🖐️ used
+  - React hooks (useState, useEffect, useContext, etc.): 🖐️ used
+  - Creating custom hooks: 🖐️ used
+  - React events and event handling: 🖐️ used
+  - Managing local state in components: 🖐️ used
+  - Functional components vs. class components: 🖐️ used
+- State Management
+  - React state: 🖐️ used
+  - Props and prop drilling: 🖐️ used
+  - Context API: 🖐️ used
+  - Redux for global state management: 🖐️ used
+  - MobX for state management: 🖐️ used
+  - Zustand for state management: 🖐️ used
+  - Immer for immutable state updates: 🖐️ used
+- Routing and Navigation
+  - Navigation in single-page applications: 🖐️ used
+  - React Router for navigation: 🖐️ used
+  - Route parameters and query strings: 🖐️ used
+  - Dynamic routing and nested routes: 🖐️ used
+- Component Styling
+  - CSS Modules: 🖐️ used
+  - SCSS/SASS: 🖐️ used
+  - Tailwind CSS: 🖐️ used
+  - CSS-in-JS libraries: 🖐️ used
+  - Styled-components: 🖐️ used
+- Forms and Form Handling
+  - Controlled vs. uncontrolled components: 🖐️ used
+  - Form validation: 🖐️ used
+  - Form libraries (Formik, React Hook Form, Ant Design Forms): 🖐️ used
+- Component Libraries and UI Frameworks
+  - Material-UI: 🖐️ used
+  - Ant Design: 🖐️ used
+  - Semantic UI React: 🖐️ used
+  - Bootstrap with React: 🖐️ used
+  - Chakra UI: 🖐️ used
+- Server Communication
+  - Fetch API for data fetching: 🖐️ used
+  - Axios for HTTP requests: 🖐️ used
+  - GraphQL and Apollo Client: 🖐️ used
+  - React Query: 🖐️ used
+- Testing
+  - Unit testing with Jest and React Testing Library: 🖐️ used
+  - Snapshot testing: 🖐️ used
+  - Mocking API calls: 🖐️ used
+- React Performance Optimization
+  - Memoization: 🖐️ used
+  - PureComponent and React.memo: 🖐️ used
+  - React Profiler: 🖐️ used
+  - Code splitting and lazy loading: 🖐️ used
+- Error Handling
+  - Error boundaries: 🖐️ used
+  - Handling errors in asynchronous code: 🖐️ used
+- Integration with Backend
+  - Consuming RESTful APIs: 🖐️ used
+  - Handling authentication and authorization: 🖐️ used
+  - WebSocket integration: 🖐️ used
+- React Native (for mobile app development)
+  - Creating mobile apps with React Native: 🖐️ used
+  - Component and UI development in React Native: 🖐️ used
+- State Persistence
+  - Local storage: 🖐️ used
+  - Session storage: 🖐️ used
+  - Cookies: 🖐️ used
+  - Redux Persist for persistent state management: 🖐️ used
+- Internationalization (i18n)
+  - Implementing multi-language support in React apps: 🖐️ used
+- Testing and Continuous Integration (CI/CD)
+  - Automated testing of React applications: 🖐️ used
+  - Setting up CI/CD pipelines for React projects: 🖐️ used

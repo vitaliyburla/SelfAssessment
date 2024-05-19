@@ -1,44 +1,44 @@
 ## .NET
 
 - Core Concepts and Internals
-  - Strengths and weaknesses of .NET
-  - Stateful and stateless services
-  - Asynchronous and synchronous programming
-  - Task-based asynchronous pattern
-  - Garbage collection in .NET
-  - .NET runtime versions and support
-  - I/O-bound, CPU-bound tasks
+  - Strengths and weaknesses of .NET: 👂 heard
+  - Stateful and stateless services: 👂 heard
+  - Asynchronous and synchronous programming: 👂 heard
+  - Task-based asynchronous pattern: 👂 heard
+  - Garbage collection in .NET: 👂 heard
+  - .NET runtime versions and support: 👂 heard
+  - I/O-bound, CPU-bound tasks: 👂 heard
   - Real-time applications with SignalR
 - Modularity and Dependencies
-  - .NET assemblies *
-  - NuGet package management *
-  - Dependency management in .NET *
-  - Dependency Injection in .NET +
-  - Inversion of Control (IoC)
-  - IoC containers in .NET
+  - .NET assemblies: 🖐️ used
+  - NuGet package management: 🖐️ used
+  - Dependency management in .NET: 🖐️ used
+  - Dependency Injection in .NET: 🎓 known
+  - Inversion of Control (IoC): 🎓 known
+  - IoC containers in .NET: 🎓 known
   - Middleware and pipeline configuration
-  - Modular applications
+  - Modular applications: 🎓 known
 - Environment and Tools
   - Command line interface (CLI) tools
-  - .NET CLI *
+  - .NET CLI: 🖐️ used
   - Windows Services and Linux Daemons
   - Hosting and Deployment models
   - IIS and Kestrel web server
   - Environment variables and configuration
-  - File system I/O operations *
+  - File system I/O operations: 🖐️ used
   - Multithreading with Task Parallel Library (TPL)
   - Performance monitoring and diagnostics
 - APIs and Framework Features
-  - LINQ
+  - LINQ: 👂 heard
   - SignalR for real-time web functionality
-  - High-performance RPC with `gRPC` *
+  - High-performance RPC with `gRPC`: 🖐️ used
   - Security features (authentication, authorization)
   - Cryptography and secure data handling
-  - Memory and resource management
+  - Memory and resource management: 👂 heard
   - Globalization and localization
 - Network and Protocols
-  - HTTP/HTTPS support
-  - WebSockets for real-time communication
+  - HTTP/HTTPS support: 👂 heard
+  - WebSockets for real-time communication: 👂 heard
   - TCP/UDP networking
   - SSL/TLS for secure connections
   - Efficient network communication with `gRPC`
@@ -53,15 +53,15 @@
   - Debugging tools and strategies
   - Performance profiling and analysis
 - Data Access and ORM
-  - Entity Framework Core
+  - Entity Framework Core: 🖐️ used
   - Dapper
-  - ADO.NET for database access
-  - Data modeling and migration
-  - Repository and Unit of Work patterns
-  - CRUD operations *
+  - ADO.NET for database access: 🖐️ used
+  - Data modeling and migration: 🖐️ used
+  - Repository and Unit of Work patterns: 🖐️ used
+  - CRUD operations: 🖐️ used
 - Error Handling and Debugging
   - Exception handling in .NET
-  - Custom error classes *
+  - Custom error classes: 🖐️ used
   - Debugging and diagnostic tools
   - Profiling and performance analysis
   - Memory leak detection
@@ -78,11 +78,11 @@
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals *
-  - Advanced C# features (LINQ, async/await, delegates, events) *
+  - C# syntax and language fundamentals: 🖐️ used
+  - Advanced C# features (LINQ, async/await, delegates, events): 🖐️ used
   - Reflection and dynamic programming
-  - Data types and collections *
-  - Generics and extension methods *
+  - Data types and collections: 🖐️ used
+  - Generics and extension methods: 🖐️ used
   - Attributes and annotations
   - Interoperability with other .NET languages
 - `F#` Development
@@ -97,7 +97,7 @@
   - Testing with `FsUnit`
 - VB.NET Development
   - VB.NET syntax and language fundamentals
-  - Event-driven programming +
+  - Event-driven programming: 🎓 known
   - COM interop and P/Invoke
   - XML and file handling
   - Office automation and VSTO
@@ -117,12 +117,12 @@
   - Migration of legacy `C++` code to .NET
   - Enhancing existing .NET applications with `C++/CLI`
 - Mobile development
-  - .NET MAUI / Xamarin
+  - .NET MAUI / Xamarin: 👂 heard
   - Interoperability between managed code and iOS/Android API
 - Game development
   - Unity
 - Web development
-  - ASP.NET Core
+  - ASP.NET Core: 👂 heard
   - Blazor
   - Razor Syntax
-  - RESTful API development *
+  - RESTful API development: 🖐️ used

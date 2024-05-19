@@ -1,0 +1,82 @@
+
+- Next.js Fundamentals
+  - File-based Routing: 🖐️ used
+  - Pages and Components: 🖐️ used
+  - Static Generation (SSG): 🖐️ used
+  - Server-side Rendering (SSR): 🖐️ used
+  - Dynamic Routing: 🖐️ used
+  - API Routes: 🖐️ used
+  - Head Component for Meta Tags: 🖐️ used
+  - Custom Document: 🎓 known
+  - Custom App: 🎓 known
+  - Custom Error Page: 🎓 known
+- Data Fetching
+  - getStaticProps: 🖐️ used
+  - getServerSideProps: 🖐️ used
+  - getStaticPaths: 🖐️ used
+  - Client-side Data Fetching: 🖐️ used
+- Styling and Theming
+  - CSS Modules: 🖐️ used
+  - Sass/SCSS: 🖐️ used
+  - Styled JSX: 🎓 known
+  - Tailwind CSS: 🖐️ used
+  - Styled-components: 🖐️ used
+- State Management
+  - React State: 🖐️ used
+  - Context API: 🖐️ used
+  - Redux: 🖐️ used
+  - Zustand: 🖐️ used
+- Authentication and Authorization
+  - NextAuth.js: 🎓 known
+  - JWT (JSON Web Tokens): 🖐️ used
+  - OAuth Providers: 🎓 known
+- Performance Optimization
+  - Image Optimization: 🖐️ used
+  - Automatic Static Optimization: 🖐️ used
+  - Code Splitting: 🖐️ used
+  - Lazy Loading: 🖐️ used
+- Internationalization (i18n)
+  - Built-in i18n Routing: 🎓 known
+  - next-i18next: 🎓 known
+- Deployment
+  - Vercel Deployment: 🖐️ used
+  - Self-hosting: 🎓 known
+  - CI/CD with Vercel: 🎓 known
+- API Routes
+  - Creating API Routes: 🖐️ used
+  - Dynamic API Routes: 🎓 known
+  - Middleware: 🎓 known
+- Middleware
+  - Custom Middleware: 🎓 known
+- Static Site Generation (SSG)
+  - Incremental Static Regeneration (ISR): 🎓 known
+- Integrations
+  - Contentful CMS: 🎓 known
+  - Stripe for Payments: 🎓 known
+  - Apollo Client for GraphQL: 🎓 known
+- Server-side Features
+  - API Route Middleware: 🎓 known
+  - Custom Server: 🎓 known
+  - Custom Headers: 🎓 known
+- Error Handling
+  - Error Boundaries: 🎓 known
+- Testing
+  - Unit Testing with Jest: 🖐️ used
+  - Integration Testing: 🖐️ used
+  - End-to-end Testing with Cypress: 🖐️ used
+- Static File Serving
+  - Public Directory for Static Assets: 🖐️ used
+- Advanced Features
+  - Custom Webpack Configuration: 🎓 known
+  - Babel Configuration: 🎓 known
+  - TypeScript Support: 🖐️ used
+  - Environment Variables: 🖐️ used
+- Analytics
+  - Next.js Analytics: 🎓 known
+  - Google Analytics Integration: 🖐️ used
+- Caching
+  - Caching Strategies: 🎓 known
+  - Cache-Control Headers: 🎓 known
+- SEO
+  - Meta Tags and SEO Optimization: 🖐️ used
+  - Open Graph Tags: 🎓 known

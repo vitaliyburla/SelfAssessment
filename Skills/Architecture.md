@@ -1,100 +1,100 @@
 ## Architecture
 
 - Application structure
-  - Modularity +
-  - Components +
-  - Directories +
+  - Modularity: 🎓 known
+  - Components: 🎓 known
+  - Directories: 🎓 known
   - GRASP
-  - SOLID +
-  - GoF patterns +
+  - SOLID: 🎓 known
+  - GoF patterns: 🎓 known
   - CQS
-  - Leaking abstractions +
-  - Multiparadigm code
+  - Leaking abstractions: 🎓 known
+  - Multiparadigm code: 🎓 known
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage +
-  - Cohesion +
-  - Coupling +
-  - Cyclomatic complexity +
-  - Reliability +
-  - Quality +
-  - Availability +
-  - Flexibility +
+  - Code coverage: 🎓 known
+  - Cohesion: 🎓 known
+  - Coupling: 🎓 known
+  - Cyclomatic complexity: 🎓 known
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layers +
-  - Domain-specific language (DSL)
+  - Isolation between layers: 🎓 known
+  - Domain-specific language (DSL): 🎓 known
   - System vs applied code
-  - Multilayer approach +
+  - Multilayer approach: 🎓 known
   - Hexagonal architecture
-  - Separation of concerns (SoC) +
+  - Separation of concerns (SoC): 🎓 known
   - Metaprogramming
-  - Inversion of control (IoC) +
-  - Dependency injection (DI) +
-  - Clean architecture +
+  - Inversion of control (IoC): 🎓 known
+  - Dependency injection (DI): 🎓 known
+  - Clean architecture: 🎓 known
   - Domain-driven design (DDD)
   - Pub/sub
-  - Message broker
+  - Message broker: 👂 heard
   - Agent
   - Service locator
-  - Message Queue (MQ)
+  - Message Queue (MQ): 👂 heard
   - CQRS
-  - Event sourcing
-  - E-R data modeling +
-  - Entity-relationship diagram +
+  - Event sourcing: 👂 heard
+  - E-R data modeling: 🎓 known
+  - Entity-relationship diagram: 🎓 known
   - IDEF1X
-  - UML +
+  - UML: 🎓 known
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems +
+  - Distributed systems: 🎓 known
   - High-intensive computing
-  - Load balancing +
+  - Load balancing: 🎓 known
   - Gateways
   - On-premises
-  - IaaS +
-  - PaaS +
-  - SaaS +
-  - FaaS clouds
-  - Serverless +
+  - IaaS: 🎓 known
+  - PaaS: 🎓 known
+  - SaaS: 🎓 known
+  - FaaS clouds: 👂 heard
+  - Serverless: 🎓 known
   - Vendor lock-in
-  - Bus factor
+  - Bus factor: 🖐️ used
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design +
-  - Process modelling +
-  - Data modelling +
+  - System design: 🎓 known
+  - Process modelling: 🎓 known
+  - Data modelling: 🎓 known
   - Solution components
   - Risk assessment
   - Non-Functional Requirements (NFR)
-  - Clouds +
+  - Clouds: 🎓 known
   - BPMN
-  - Low-code
-  - No-code
+  - Low-code: 🎓 known
+  - No-code: 🎓 known
   - Metric
   - Metric abuse
-  - ACID +
-  - CAP theorem +
+  - ACID: 🎓 known
+  - CAP theorem: 🎓 known
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
+  - Understanding business needs: 🎓 known
   - Enterprise strategy
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope
+  - Project scope: 🎓 known
   - Enterprise service bus
-  - Service-oriented architecture +
-  - Microservices +
+  - Service-oriented architecture: 🎓 known
+  - Microservices: 🎓 known
   - Process choreography
-  - Service orchestration
+  - Service orchestration: 🎓 known
   - Data warehouse
-  - Business Intelligence
-  - OLAP
-  - OLTP
+  - Business Intelligence: 🖐️ used
+  - OLAP: 🎓 known
+  - OLTP: 🎓 known
   - Conways Law
   - Quality assurance
   - Engineering Hygiene
