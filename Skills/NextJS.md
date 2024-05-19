@@ -1,84 +1,82 @@
-P## Next.js
 
 - Next.js Fundamentals
-  - File-based Routing *
-  - Pages and Components *
-  - Static Generation (SSG) *
-  - Server-side Rendering (SSR) *
-  - Dynamic Routing *
-  - API Routes *
-  - Head Component for Meta Tags *
-  - Custom Document +
-  - Custom App +
-  - Custom Error Page +
+  - File-based Routing: 🖐️ used
+  - Pages and Components: 🖐️ used
+  - Static Generation (SSG): 🖐️ used
+  - Server-side Rendering (SSR): 🖐️ used
+  - Dynamic Routing: 🖐️ used
+  - API Routes: 🖐️ used
+  - Head Component for Meta Tags: 🖐️ used
+  - Custom Document: 🎓 known
+  - Custom App: 🎓 known
+  - Custom Error Page: 🎓 known
 - Data Fetching
-  - getStaticProps *
-  - getServerSideProps *
-  - getStaticPaths *
-  - Client-side Data Fetching *
+  - getStaticProps: 🖐️ used
+  - getServerSideProps: 🖐️ used
+  - getStaticPaths: 🖐️ used
+  - Client-side Data Fetching: 🖐️ used
 - Styling and Theming
-  - CSS Modules *
-  - Sass/SCSS *
-  - Styled JSX +
-  - Tailwind CSS *
-  - Styled-components *
+  - CSS Modules: 🖐️ used
+  - Sass/SCSS: 🖐️ used
+  - Styled JSX: 🎓 known
+  - Tailwind CSS: 🖐️ used
+  - Styled-components: 🖐️ used
 - State Management
-  - React State *
-  - Context API *
-  - Redux *
-  - Zustand *
+  - React State: 🖐️ used
+  - Context API: 🖐️ used
+  - Redux: 🖐️ used
+  - Zustand: 🖐️ used
 - Authentication and Authorization
-  - NextAuth.js +
-  - JWT (JSON Web Tokens) *
-  - OAuth Providers +
+  - NextAuth.js: 🎓 known
+  - JWT (JSON Web Tokens): 🖐️ used
+  - OAuth Providers: 🎓 known
 - Performance Optimization
-  - Image Optimization *
-  - Automatic Static Optimization *
-  - Code Splitting *
-  - Lazy Loading *
+  - Image Optimization: 🖐️ used
+  - Automatic Static Optimization: 🖐️ used
+  - Code Splitting: 🖐️ used
+  - Lazy Loading: 🖐️ used
 - Internationalization (i18n)
-  - Built-in i18n Routing +
-  - next-i18next +
+  - Built-in i18n Routing: 🎓 known
+  - next-i18next: 🎓 known
 - Deployment
-  - Vercel Deployment *
-  - Self-hosting +
-  - CI/CD with Vercel +
+  - Vercel Deployment: 🖐️ used
+  - Self-hosting: 🎓 known
+  - CI/CD with Vercel: 🎓 known
 - API Routes
-  - Creating API Routes *
-  - Dynamic API Routes +
-  - Middleware +
+  - Creating API Routes: 🖐️ used
+  - Dynamic API Routes: 🎓 known
+  - Middleware: 🎓 known
 - Middleware
-  - Custom Middleware +
+  - Custom Middleware: 🎓 known
 - Static Site Generation (SSG)
-  - Incremental Static Regeneration (ISR) +
+  - Incremental Static Regeneration (ISR): 🎓 known
 - Integrations
-  - Contentful CMS +
-  - Stripe for Payments +
-  - Apollo Client for GraphQL +
+  - Contentful CMS: 🎓 known
+  - Stripe for Payments: 🎓 known
+  - Apollo Client for GraphQL: 🎓 known
 - Server-side Features
-  - API Route Middleware +
-  - Custom Server +
-  - Custom Headers +
+  - API Route Middleware: 🎓 known
+  - Custom Server: 🎓 known
+  - Custom Headers: 🎓 known
 - Error Handling
-  - Custom Error Page +
-  - Error Boundaries +
+  - Error Boundaries: 🎓 known
 - Testing
-  - Unit Testing with Jest *
-  - Integration Testing *
-  - End-to-end Testing with Cypress *
+  - Unit Testing with Jest: 🖐️ used
+  - Integration Testing: 🖐️ used
+  - End-to-end Testing with Cypress: 🖐️ used
 - Static File Serving
-  - Public Directory for Static Assets *
+  - Public Directory for Static Assets: 🖐️ used
 - Advanced Features
-  - Custom Webpack Configuration +
-  - Babel Configuration +
-  - TypeScript Support *
-  - Environment Variables *
+  - Custom Webpack Configuration: 🎓 known
+  - Babel Configuration: 🎓 known
+  - TypeScript Support: 🖐️ used
+  - Environment Variables: 🖐️ used
 - Analytics
-  - Next.js Analytics +
-  - Google Analytics Integration *
+  - Next.js Analytics: 🎓 known
+  - Google Analytics Integration: 🖐️ used
 - Caching
-  - Caching Strategies +
-  - Cache-Control Headers +
+  - Caching Strategies: 🎓 known
+  - Cache-Control Headers: 🎓 known
 - SEO
-  - Meta Tags and SEO Optimization *
-  - Open Graph Tags +
+  - Meta Tags and SEO Optimization: 🖐️ used
+  - Open Graph Tags: 🎓 known
