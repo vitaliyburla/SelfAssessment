@@ -23,7 +23,7 @@
   - Process +
 - Async contracts
   - Callbacks *
-  - Callback-last-error-first
+  - Callback-last-error-first *
   - Thenable
   - Promise *
   - Async/await *
@@ -31,13 +31,13 @@
   - Deferred
   - Sync generator *
   - Async Generator ~
-  - Async Iterator ~
+  - Async Iterator *
   - Event *
   - Coroutine
   - Goroutine
-  - Signal
+  - Signal *
   - Stream *
-  - Chain of responsibility
+  - Chain of responsibility *
   - Middleware *
   - Locks
 - Async adapters and utils
@@ -49,12 +49,12 @@
 - Async abstractions interfaces
   - EventEmitter *
   - Observable/Observer *
-  - Readable
-  - Writable
+  - Readable *
+  - Writable *
   - Transform
-  - Async Pool
-  - Async Queue
-  - Async Collector
+  - Async Pool ~
+  - Async Queue ~
+  - Async Collector ~
   - Semaphore
   - Mutex
   - Spin Lock
@@ -72,13 +72,13 @@
   - Promise hell +
   - ref() and unref()
   - Error handling in async code *
-  - Better stack traces with return await
+  - Better stack traces with return await *
   - JSON streaming serialization *
   - AsyncLocalStorage +
   - AsyncResource +
 - Techniques
-  - Async.js library
-  - RxJS library
+  - Async.js library ~
+  - RxJS library ~
   - Promise.all *
   - Promise.allSettled *
   - Promise.race *

@@ -11,11 +11,11 @@
   - Key-value store +
   - Tuple store
   - Graph databases
-  - Object databases +
-  - Column databases +
+  - Object databases *
+  - Column databases *
   - Navigational databases
   - Hierarchical databases
-  - In-memory databases +
+  - In-memory databases *
   - Inverted index
   - Data control language (DCL) +
   - Data definition language (DDL) *
@@ -23,15 +23,15 @@
   - Data query language (DQL) *
 - Relational
   - Entity-Relationship Diagram +
-  - Normal forms +
+  - Normal forms *
   - Indexing +
   - Primary keys *
   - Foreign keys *
   - Transactions +
   - Views +
-  - Subqueries
-  - Stored procedures +
-  - SQL functions +
+  - Subqueries *
+  - Stored procedures *
+  - SQL functions *
   - Materialized views
   - Replications
   - Virtualization
@@ -48,47 +48,47 @@
   - `EXISTS`
   - `JOIN` *
   - `INNER JOIN` *
-  - `LEFT JOIN` +
-  - `RIGHT JOIN` +
+  - `LEFT JOIN` *
+  - `RIGHT JOIN` *
   - `UNION` *
   - `DISTINCT`
   - `WHERE` *
-  - `LIKE` +
-  - `IN` +
-  - `BETWEEN` +
+  - `LIKE` *
+  - `IN` *
+  - `BETWEEN` *
   - `CREATE TABLE` *
-  - `ALTER TABLE` +
+  - `ALTER TABLE` *
   - `DROP TABLE` *
   - `PRIMARY KEY` *
   - `FOREIGN KEY` *
   - `CHECK`
   - `DEFAULT`
-  - `INDEX` +
+  - `INDEX` *
   - `UNIQUE`
   - `GRANT`
   - `REVOKE`
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL +
+  - PostgreSQL *
   - Oracle *
   - MySQL *
-  - MariaDB
-  - MS SQL Server
+  - MariaDB *
+  - MS SQL Server *
   - Redis +
   - Rabbit
-  - MongoDB +
+  - MongoDB *
   - Memcached
   - Riak
   - DB2
-  - SQLite +
+  - SQLite *
   - DynamoDB
   - Firebase ~
 - Data engineering
   - Data warehousing
   - Business intelligence
   - Big data
-  - Data analysis
-  - AI tools
-  - Cloud databases +
+  - Data analysis *
+  - AI tools *
+  - Cloud databases *
   - Data Visualization +

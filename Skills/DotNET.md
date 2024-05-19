@@ -1,23 +1,23 @@
 ## .NET
 
 - Core Concepts and Internals
-  - Strengths and weaknesses of .NET
-  - Stateful and stateless services
-  - Asynchronous and synchronous programming
-  - Task-based asynchronous pattern
-  - Garbage collection in .NET
-  - .NET runtime versions and support
-  - I/O-bound, CPU-bound tasks
+  - Strengths and weaknesses of .NET ~
+  - Stateful and stateless services ~
+  - Asynchronous and synchronous programming ~
+  - Task-based asynchronous pattern ~
+  - Garbage collection in .NET ~
+  - .NET runtime versions and support ~
+  - I/O-bound, CPU-bound tasks ~
   - Real-time applications with SignalR
 - Modularity and Dependencies
   - .NET assemblies *
   - NuGet package management *
   - Dependency management in .NET *
   - Dependency Injection in .NET +
-  - Inversion of Control (IoC)
-  - IoC containers in .NET
+  - Inversion of Control (IoC) +
+  - IoC containers in .NET +
   - Middleware and pipeline configuration
-  - Modular applications
+  - Modular applications +
 - Environment and Tools
   - Command line interface (CLI) tools
   - .NET CLI *
@@ -29,16 +29,16 @@
   - Multithreading with Task Parallel Library (TPL)
   - Performance monitoring and diagnostics
 - APIs and Framework Features
-  - LINQ
+  - LINQ ~
   - SignalR for real-time web functionality
   - High-performance RPC with `gRPC` *
   - Security features (authentication, authorization)
   - Cryptography and secure data handling
-  - Memory and resource management
+  - Memory and resource management ~
   - Globalization and localization
 - Network and Protocols
-  - HTTP/HTTPS support
-  - WebSockets for real-time communication
+  - HTTP/HTTPS support ~
+  - WebSockets for real-time communication ~
   - TCP/UDP networking
   - SSL/TLS for secure connections
   - Efficient network communication with `gRPC`
@@ -53,11 +53,11 @@
   - Debugging tools and strategies
   - Performance profiling and analysis
 - Data Access and ORM
-  - Entity Framework Core
+  - Entity Framework Core *
   - Dapper
-  - ADO.NET for database access
-  - Data modeling and migration
-  - Repository and Unit of Work patterns
+  - ADO.NET for database access *
+  - Data modeling and migration *
+  - Repository and Unit of Work patterns *
   - CRUD operations *
 - Error Handling and Debugging
   - Exception handling in .NET
@@ -117,12 +117,12 @@
   - Migration of legacy `C++` code to .NET
   - Enhancing existing .NET applications with `C++/CLI`
 - Mobile development
-  - .NET MAUI / Xamarin
+  - .NET MAUI / Xamarin ~
   - Interoperability between managed code and iOS/Android API
 - Game development
   - Unity
 - Web development
-  - ASP.NET Core
+  - ASP.NET Core ~
   - Blazor
   - Razor Syntax
   - RESTful API development *

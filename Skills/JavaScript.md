@@ -2,14 +2,14 @@
 
 - Language
   - `Object` *
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Function` *
+  - `Boolean` *
+  - `Number` *
   - `BigInt` *
-  - `String`
+  - `String` *
   - `Symbol` *
-  - `Infinity`
-  - `NaN`
+  - `Infinity` *
+  - `NaN` *
   - `undefined` *
   - `null` *
   - `this` *
@@ -25,7 +25,7 @@
   - Chaining *
   - Optional chaining
   - IIFE *
-  - Async IIFE
+  - Async IIFE *
   - `global` ~
   - `globalThis` ~
   - `window` *
@@ -42,22 +42,22 @@
   - `await` *
   - Template literal *
   - Strict mode *
-  - Hoisting
+  - Hoisting *
   - `delete` *
   - `in` *
   - `super` *
-  - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `eval` *
+  - `static` *
+  - `Number.parseInt` *
+  - `Number.parseFloat` *
   - Property descriptors
   - Sealing properties
-  - Freezing properties
+  - Freezing properties *
   - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Instance class fields *
+  - Static class fields *
+  - Private class fields *
+  - Private class methods *
 - Statements
   - `if` *
   - `while` *
@@ -75,9 +75,9 @@
   - `try..catch` *
   - `switch` *
   - `class` *
-  - `extends`
+  - `extends` *
   - `with` +
-  - `new`
+  - `new` *
 - Functions
   - Arrow function *
   - Async function *
@@ -93,25 +93,25 @@
   - `Array` *
   - `Map` *
   - `Set` *
-  - `WeakMap`
-  - `WeakSet`
+  - `WeakMap` *
+  - `WeakSet` *
   - Typed arrays *
   - Mixins *
-  - `Object.assign`
+  - `Object.assign` *
 - Standard classes and namespaces
   - `Proxy` +
   - `RegExp` *
   - `Date` *
-  - `Math`
+  - `Math` *
   - `Reflect` +
-  - `Error`
+  - `Error` *
   - `Atomics`
-  - `JSON`
+  - `JSON` *
   - `WeakRef`
   - `FinalizationRegistry`
-  - `Intl`
-  - `Promise`
-  - `console`
+  - `Intl` *
+  - `Promise` *
+  - `console` *
   - Timers *
 - Infrastructure
   - V8 +

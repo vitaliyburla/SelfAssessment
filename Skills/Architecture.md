@@ -9,7 +9,7 @@
   - GoF patterns +
   - CQS
   - Leaking abstractions +
-  - Multiparadigm code
+  - Multiparadigm code +
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
@@ -25,7 +25,7 @@
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layers +
-  - Domain-specific language (DSL)
+  - Domain-specific language (DSL) +
   - System vs applied code
   - Multilayer approach +
   - Hexagonal architecture
@@ -36,12 +36,12 @@
   - Clean architecture +
   - Domain-driven design (DDD)
   - Pub/sub
-  - Message broker
+  - Message broker ~
   - Agent
   - Service locator
-  - Message Queue (MQ)
+  - Message Queue (MQ) ~
   - CQRS
-  - Event sourcing
+  - Event sourcing ~
   - E-R data modeling +
   - Entity-relationship diagram +
   - IDEF1X
@@ -56,10 +56,10 @@
   - IaaS +
   - PaaS +
   - SaaS +
-  - FaaS clouds
+  - FaaS clouds ~
   - Serverless +
   - Vendor lock-in
-  - Bus factor
+  - Bus factor *
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
@@ -72,29 +72,29 @@
   - Non-Functional Requirements (NFR)
   - Clouds +
   - BPMN
-  - Low-code
-  - No-code
+  - Low-code +
+  - No-code +
   - Metric
   - Metric abuse
   - ACID +
   - CAP theorem +
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
+  - Understanding business needs +
   - Enterprise strategy
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope
+  - Project scope +
   - Enterprise service bus
   - Service-oriented architecture +
   - Microservices +
   - Process choreography
-  - Service orchestration
+  - Service orchestration +
   - Data warehouse
-  - Business Intelligence
-  - OLAP
-  - OLTP
+  - Business Intelligence *
+  - OLAP +
+  - OLTP +
   - Conways Law
   - Quality assurance
   - Engineering Hygiene

@@ -20,12 +20,12 @@
   - Multi-paradigm programming +
   - Metaprogramming
   - Actor model
-  - Lambda calculus
-  - Black box
+  - Lambda calculus ~
+  - Black box ~
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition
+  - Class composition +
 - OOP basics
   - Constructor *
   - Operator `new` *
@@ -51,18 +51,18 @@
 - GRASP
   - Information expert
   - Creator
-  - Controller
+  - Controller *
   - Indirection
   - Low coupling
   - High cohesion
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP) *
+  - Open–closed principle (OCP) *
+  - Liskov substitution principle (LSP) *
+  - Interface segregation principle (ISP) *
+  - Dependency inversion principle (DIP) *
 - Patterns
   - Singleton *
   - Factory Method ~
@@ -72,12 +72,12 @@
   - Strategy ~
   - Facade
   - Proxy
-  - Chain of Responsibility ~
+  - Chain of Responsibility *
   - Command
-  - Iterator ~
-  - State ~
-  - Bridge ~
-  - Builder ~
+  - Iterator *
+  - State *
+  - Bridge *
+  - Builder *
   - Prototype
   - Composite ~
   - Decorator ~
@@ -85,7 +85,7 @@
   - Mediator
   - Memento
   - Template Method
-  - Visitor ~
+  - Visitor *
   - Reactor
   - Active object
   - Delegation

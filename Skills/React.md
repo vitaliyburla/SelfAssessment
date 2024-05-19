@@ -1,0 +1,76 @@
+## React
+
+- React Fundamentals
+  - Component-based architecture *
+  - Virtual DOM *
+  - JSX (JavaScript XML) *
+  - Rendering elements and components *
+  - Component lifecycle (Mounting, Updating, Unmounting) *
+  - React hooks (useState, useEffect, useContext, etc.) *
+  - Creating custom hooks *
+  - React events and event handling *
+  - Managing local state in components *
+  - Functional components vs. class components *
+- State Management
+  - React state *
+  - Props and prop drilling *
+  - Context API *
+  - Redux for global state management *
+  - MobX for state management *
+  - Zustand for state management *
+  - Immer for immutable state updates *
+- Routing and Navigation
+  - Navigation in single-page applications *
+  - React Router for navigation *
+  - Route parameters and query strings *
+  - Dynamic routing and nested routes *
+- Component Styling
+  - CSS Modules *
+  - SCSS/SASS *
+  - Tailwind CSS *
+  - CSS-in-JS libraries *
+  - Styled-components *
+- Forms and Form Handling
+  - Controlled vs. uncontrolled components *
+  - Form validation *
+  - Form libraries (Formik, React Hook Form, Ant Design Forms) *
+- Component Libraries and UI Frameworks
+  - Material-UI *
+  - Ant Design *
+  - Semantic UI React *
+  - Bootstrap with React *
+  - Chakra UI *
+- Server Communication
+  - Fetch API for data fetching *
+  - Axios for HTTP requests *
+  - GraphQL and Apollo Client *
+  - React Query *
+- Testing
+  - Unit testing with Jest and React Testing Library *
+  - Snapshot testing *
+  - Mocking API calls *
+- React Performance Optimization
+  - Memoization *
+  - PureComponent and React.memo *
+  - React Profiler *
+  - Code splitting and lazy loading *
+- Error Handling
+  - Error boundaries *
+  - Handling errors in asynchronous code *
+- Integration with Backend
+  - Consuming RESTful APIs *
+  - Handling authentication and authorization *
+  - WebSocket integration *
+- React Native (for mobile app development)
+  - Creating mobile apps with React Native *
+  - Component and UI development in React Native *
+- State Persistence
+  - Local storage *
+  - Session storage *
+  - Cookies *
+  - Redux Persist for persistent state management *
+- Internationalization (i18n)
+  - Implementing multi-language support in React apps *
+- Testing and Continuous Integration (CI/CD)
+  - Automated testing of React applications *
+  - Setting up CI/CD pipelines for React projects *

@@ -3,7 +3,7 @@
 - Internals and concepts
   - Strong and weak sides of node.js ~
   - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
+  - Nonblocking I/O and blocking code +
   - Event loop phases +
   - Event loop microtasks and macrotasks +
   - Garbage collection +
@@ -22,7 +22,7 @@
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection *
-  - DI containers
+  - DI containers +
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
@@ -31,11 +31,11 @@
   - Process-based permissions
   - Graceful shutdown
   - Clustering
-  - Watch filesystem changes with --watch
+  - Watch filesystem changes with  --watch *
 - Internal API
   - Streams API *
   - Web Streams API
-  - Crypto API
+  - Crypto API *
   - Password hashing with crypto.scrypt *
   - Web Crypto API
   - File system API (sync and async) *
@@ -57,7 +57,7 @@
   - Module `node:url` vs `new URL`
   - Module `node:assert`
   - Internationalization
-  - Blob, File, Buffer, module `node:buffer` +
+  - Blob, File, Buffer, module `node:buffer` *
   - Module `node:zlib`
 - Network
   - Endpoint throttling +
@@ -65,17 +65,17 @@
   - SNI callback
   - SSL certificates ~
   - Protocol agnostic approach
-  - Fetch API +
+  - Fetch API *
   - IncomingMessage
   - HTTP(S) +
   - TCP/SSL +
   - UDP ~
   - TLS ~
-  - Websocket +
+  - Websocket *
   - SSE
   - HTTP/3 (QUIC)
-  - Long polling +
-  - REST +
+  - Long polling *
+  - REST *
   - RPC +
   - Routing *
   - DoS +
@@ -84,7 +84,7 @@
   - Path traversal
   - CSRF ~
   - DNS +
-  - SQL injection +
+  - SQL injection *
   - noDelay
   - keep-alive ~
   - IP sticky sessions +
@@ -94,21 +94,21 @@
   - Application configuring *
   - Testing *
   - CI/CD *
-  - Readable +
-  - Writable +
-  - Transform
+  - Readable *
+  - Writable *
+  - Transform *
   - Back pressure
-  - Buffer +
+  - Buffer *
   - Console *
   - Inspector *
 - Data access
   - Data access layer *
-  - Repository
+  - Repository *
   - Active record
   - Query builder *
   - Object-Relational Mapping +
-  - CRUD
-  - DTO
+  - CRUD *
+  - DTO *
 - Error handling and debugging
   - `Error` *
   - `error.cause` *

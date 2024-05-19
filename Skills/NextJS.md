@@ -1,0 +1,84 @@
+P## Next.js
+
+- Next.js Fundamentals
+  - File-based Routing *
+  - Pages and Components *
+  - Static Generation (SSG) *
+  - Server-side Rendering (SSR) *
+  - Dynamic Routing *
+  - API Routes *
+  - Head Component for Meta Tags *
+  - Custom Document +
+  - Custom App +
+  - Custom Error Page +
+- Data Fetching
+  - getStaticProps *
+  - getServerSideProps *
+  - getStaticPaths *
+  - Client-side Data Fetching *
+- Styling and Theming
+  - CSS Modules *
+  - Sass/SCSS *
+  - Styled JSX +
+  - Tailwind CSS *
+  - Styled-components *
+- State Management
+  - React State *
+  - Context API *
+  - Redux *
+  - Zustand *
+- Authentication and Authorization
+  - NextAuth.js +
+  - JWT (JSON Web Tokens) *
+  - OAuth Providers +
+- Performance Optimization
+  - Image Optimization *
+  - Automatic Static Optimization *
+  - Code Splitting *
+  - Lazy Loading *
+- Internationalization (i18n)
+  - Built-in i18n Routing +
+  - next-i18next +
+- Deployment
+  - Vercel Deployment *
+  - Self-hosting +
+  - CI/CD with Vercel +
+- API Routes
+  - Creating API Routes *
+  - Dynamic API Routes +
+  - Middleware +
+- Middleware
+  - Custom Middleware +
+- Static Site Generation (SSG)
+  - Incremental Static Regeneration (ISR) +
+- Integrations
+  - Contentful CMS +
+  - Stripe for Payments +
+  - Apollo Client for GraphQL +
+- Server-side Features
+  - API Route Middleware +
+  - Custom Server +
+  - Custom Headers +
+- Error Handling
+  - Custom Error Page +
+  - Error Boundaries +
+- Testing
+  - Unit Testing with Jest *
+  - Integration Testing *
+  - End-to-end Testing with Cypress *
+- Static File Serving
+  - Public Directory for Static Assets *
+- Advanced Features
+  - Custom Webpack Configuration +
+  - Babel Configuration +
+  - TypeScript Support *
+  - Environment Variables *
+- Analytics
+  - Next.js Analytics +
+  - Google Analytics Integration *
+- Caching
+  - Caching Strategies +
+  - Cache-Control Headers +
+- SEO
+  - Meta Tags and SEO Optimization *
+  - Open Graph Tags +

@@ -1,36 +1,36 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model +
+  - Modeling +
   - Subject domain
   - Algorithm +
-  - Syntax
-  - Semantics
-  - Abstraction
+  - Syntax +
+  - Semantics +
+  - Abstraction +
   - Paradigm +
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Programm +
+  - Programming paradigm +
+  - Programming language +
   - Contract +
   - Module *
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
+  - Library +
+  - Package +
+  - Component +
+  - Framework +
+  - Platform +
+  - Source code +
+  - Object code +
+  - Machine code +
   - Microcode
-  - Software engineering
+  - Software engineering +
   - Decomposition +
-  - Control flow
-  - Data flow
-  - Code reuse
-  - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Control flow +
+  - Data flow +
+  - Code reuse *
+  - Defensive programming +
+  - Don't repeat yourself (DRY) *
+  - KISS principle *
 - Syntax and concepts
   - Value *
   - Identifier *
@@ -55,20 +55,20 @@
   - Assignment *
   - Regular expression *
   - Interface *
-  - Namespaces
+  - Namespaces +
   - Call stack *
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
+  - Naming conventions *
+  - Coding conventions *
+  - Camel case *
+  - Snake case *
+  - Kebab case *
+  - Trailing commas *
   - Return early *
-  - Fail-fast
+  - Fail-fast *
 - Types
   - Primitive types *
   - Reference types *
-  - Type systems
+  - Type systems +
   - Strong typing
   - Weak typing
   - Duck typing
@@ -77,7 +77,7 @@
   - Nominal typing
   - Structural typing
   - Explicit typing
-  - Type inference
+  - Type inference +
   - Covariance
   - Contravariance
 - Functions
@@ -107,7 +107,7 @@
 - Data structures
   - Array *
   - Structure *
-  - Record +
+  - Record *
   - Enum *
   - Instance *
   - Object *
@@ -121,42 +121,42 @@
   - Queue *
   - Stack *
   - Deque *
-  - Tree +
-  - Graph +
+  - Tree *
+  - Graph *
   - Iterator *
   - Mutable state *
   - Immutable state *
   - Serialization *
   - String parsing *
-  - JSON
-  - JSON5
-  - YAML
+  - JSON *
+  - JSON5 *
+  - YAML *
 - Networking
-  - DNS
-  - CDN
-  - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
-  - URN
-  - URI
+  - DNS +
+  - CDN +
+  - CORS +
+  - IPv4 +
+  - IPv6 +
+  - NAT +
+  - URL +
+  - URN +
+  - URI +
 - Process and tools
   - Compiler +
-  - Just-in-time compilation
-  - Ahead-of-time compilation
+  - Just-in-time compilation +
+  - Ahead-of-time compilation +
   - Transpiler +
   - Linter +
   - Polyfill +
-  - Interpreter
+  - Interpreter +
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
-  - Register-based VM
-  - Stack-based VM
-  - Containerization
+  - Runtime +
+  - Virtual machine +
+  - Register-based VM +
+  - Stack-based VM +
+  - Containerization +
   - Debugger +
   - Tracing
   - Garbage collection +
@@ -166,8 +166,8 @@
   - Unittesting +
   - git *
   - Github *
-  - Docker
-  - Kubernetes
+  - Docker *
+  - Kubernetes *
   - GCC
   - LLVM
 - Antipatterns
@@ -176,7 +176,7 @@
   - Soft code
   - Cryptic code
   - Improbability factor
-  - Accidental complexity
+  - Accidental complexity +
   - Action at a distance
   - Spaghetti +
   - Silver bullet +
@@ -186,52 +186,52 @@
   - Duplicate code +
   - Premature optimization
   - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters
-  - Pass-through parameters
-  - Accumulate and fire
-  - Use switch/case
-  - Temporary field
+  - Nested loops +
+  - Long method/function/procedure +
+  - Long inheritance +
+  - Large class/file +
+  - Too many parameters +
+  - Pass-through parameters +
+  - Accumulate and fire +
+  - Use switch/case +
+  - Temporary field +
   - Handle object as instances and hashes at the same time
-  - Use fields instead of arguments
+  - Use fields instead of arguments +
   - Data clump
   - Feature envy
   - Monkey patch
-  - Yo-yo problem
+  - Yo-yo problem +
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
+  - Bytecode +
+  - V8 +
   - VJM
   - CLR
   - Mono
 - Operating systems
-  - Interrupts
-  - Drivers
-  - Kernel
+  - Interrupts +
+  - Drivers +
+  - Kernel +
   - Ring
-  - Virtual memory
-  - File system
-  - Linux
+  - Virtual memory *
+  - File system *
+  - Linux +
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS *
+  - Windows *
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII +
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64
-  - ECMA
+  - Base64 +
+  - ECMA +
   - ICANN
-  - ISO
+  - ISO +
   - MIME
   - OWASP
   - UTF-8
