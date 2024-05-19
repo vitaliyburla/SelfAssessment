@@ -4,16 +4,16 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
+  - Algorithm +
   - Syntax
   - Semantics
   - Abstraction
-  - Paradigm
+  - Paradigm +
   - Programm
   - Programming paradigm
   - Programming language
-  - Contract
-  - Module
+  - Contract +
+  - Module *
   - Library
   - Package
   - Component
@@ -24,7 +24,7 @@
   - Machine code
   - Microcode
   - Software engineering
-  - Decomposition
+  - Decomposition +
   - Control flow
   - Data flow
   - Code reuse
@@ -32,42 +32,42 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
+  - Value *
+  - Identifier *
+  - Variable *
+  - Constant *
+  - Scalar *
+  - Literal *
+  - Expression *
+  - Heap +
+  - Function *
+  - Procedure *
+  - Method *
+  - Class *
+  - Prototype *
+  - Event *
+  - Type *
+  - Flag *
+  - Lexical scope *
+  - Code block *
+  - Conditions *
+  - Loops *
+  - Assignment *
+  - Regular expression *
+  - Interface *
   - Namespaces
-  - Call stack
+  - Call stack *
   - Naming conventions
   - Coding conventions
   - Camel case
   - Snake case
   - Kebab case
   - Trailing commas
-  - Return early
+  - Return early *
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types *
+  - Reference types *
   - Type systems
   - Strong typing
   - Weak typing
@@ -81,53 +81,53 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
-  - Partial application
-  - Currying
-  - Higher order
-  - Recursion
+  - Signature *
+  - Argument *
+  - Parameter *
+  - Pure function *
+  - Lambda expression *
+  - Side effects +
+  - Closure *
+  - Partial application ~
+  - Currying ~
+  - Higher order *
+  - Recursion *
   - Tail call optimisation
-  - Callback
-  - Listener
-  - Composition
-  - Pipe
-  - Memoize
-  - Wrapper
-  - Functor
-  - Monad
-  - Monoid
-  - Generator
-  - Coroutine
+  - Callback *
+  - Listener *
+  - Composition +
+  - Pipe *
+  - Memoize *
+  - Wrapper *
+  - Functor *
+  - Monad *
+  - Monoid *
+  - Generator *
+  - Coroutine *
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
-  - Unrolled list
-  - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
-  - Iterator
-  - Mutable state
-  - Immutable state
-  - Serialization
-  - String parsing
+  - Array *
+  - Structure *
+  - Record +
+  - Enum *
+  - Instance *
+  - Object *
+  - Collection *
+  - Set *
+  - Hash table +
+  - Linked list *
+  - Doubly list *
+  - Unrolled list +
+  - Circular list *
+  - Queue *
+  - Stack *
+  - Deque *
+  - Tree +
+  - Graph +
+  - Iterator *
+  - Mutable state *
+  - Immutable state *
+  - Serialization *
+  - String parsing *
   - JSON
   - JSON5
   - YAML
@@ -142,12 +142,12 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler +
   - Just-in-time compilation
   - Ahead-of-time compilation
-  - Transpiler
-  - Linter
-  - Polyfill
+  - Transpiler +
+  - Linter +
+  - Polyfill +
   - Interpreter
   - Linker
   - Dynamic linking
@@ -157,33 +157,33 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger +
   - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Github
+  - Garbage collection +
+  - Refactoring +
+  - Code review +
+  - Exception *
+  - Unittesting +
+  - git *
+  - Github *
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
+  - Magic numbers +
+  - Hard code +
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
-  - Silver bullet
-  - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Spaghetti +
+  - Silver bullet +
+  - Not invented here +
+  - Dead code +
+  - Unreachable code +
+  - Duplicate code +
   - Premature optimization
   - Micro-optimization
   - Nested loops

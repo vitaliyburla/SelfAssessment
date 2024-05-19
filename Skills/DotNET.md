@@ -10,28 +10,28 @@
   - I/O-bound, CPU-bound tasks
   - Real-time applications with SignalR
 - Modularity and Dependencies
-  - .NET assemblies
-  - NuGet package management
-  - Dependency management in .NET
-  - Dependency Injection in .NET
+  - .NET assemblies *
+  - NuGet package management *
+  - Dependency management in .NET *
+  - Dependency Injection in .NET +
   - Inversion of Control (IoC)
   - IoC containers in .NET
   - Middleware and pipeline configuration
   - Modular applications
 - Environment and Tools
   - Command line interface (CLI) tools
-  - .NET CLI
+  - .NET CLI *
   - Windows Services and Linux Daemons
   - Hosting and Deployment models
   - IIS and Kestrel web server
   - Environment variables and configuration
-  - File system I/O operations
+  - File system I/O operations *
   - Multithreading with Task Parallel Library (TPL)
   - Performance monitoring and diagnostics
 - APIs and Framework Features
   - LINQ
   - SignalR for real-time web functionality
-  - High-performance RPC with `gRPC`
+  - High-performance RPC with `gRPC` *
   - Security features (authentication, authorization)
   - Cryptography and secure data handling
   - Memory and resource management
@@ -58,10 +58,10 @@
   - ADO.NET for database access
   - Data modeling and migration
   - Repository and Unit of Work patterns
-  - CRUD operations
+  - CRUD operations *
 - Error Handling and Debugging
   - Exception handling in .NET
-  - Custom error classes
+  - Custom error classes *
   - Debugging and diagnostic tools
   - Profiling and performance analysis
   - Memory leak detection
@@ -78,11 +78,11 @@
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals
-  - Advanced C# features (LINQ, async/await, delegates, events)
+  - C# syntax and language fundamentals *
+  - Advanced C# features (LINQ, async/await, delegates, events) *
   - Reflection and dynamic programming
-  - Data types and collections
-  - Generics and extension methods
+  - Data types and collections *
+  - Generics and extension methods *
   - Attributes and annotations
   - Interoperability with other .NET languages
 - `F#` Development
@@ -97,7 +97,7 @@
   - Testing with `FsUnit`
 - VB.NET Development
   - VB.NET syntax and language fundamentals
-  - Event-driven programming
+  - Event-driven programming +
   - COM interop and P/Invoke
   - XML and file handling
   - Office automation and VSTO
@@ -125,4 +125,4 @@
   - ASP.NET Core
   - Blazor
   - Razor Syntax
-  - RESTful API development
+  - RESTful API development *

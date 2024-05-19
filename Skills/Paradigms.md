@@ -1,23 +1,23 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
-  - Reactive programming
-  - Functional-reactive (FRP)
-  - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
+  - Procedural programming *
+  - Imperative programming ~
+  - Structured programming ~
+  - Non-structured programming ~
+  - Functional programming *
+  - Prototype-based programming ~
+  - Object-oriented programming *
+  - Object-based programming ~
+  - Generic programming *
+  - Concurrent computing *
+  - Asynchronous programming *
+  - Parallel programming +
+  - Reactive programming +
+  - Functional-reactive (FRP) *
+  - Automata-based programming *
+  - Domain-specific languages +
+  - Multi-paradigm programming +
   - Metaprogramming
   - Actor model
   - Lambda calculus
@@ -27,26 +27,26 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - Instance
-  - Introspection
-  - Reflection
+  - Constructor *
+  - Operator `new` *
+  - Static method *
+  - Method *
+  - Async method *
+  - Getters, Setters *
+  - Public fields *
+  - Private fields *
+  - Field declarations *
+  - Inheritance *
+  - Parent class *
+  - Polymorphism *
+  - Abstract class *
+  - Interface *
+  - Encapsulation *
+  - Hidden class *
+  - Object form *
+  - Instance *
+  - Introspection +
+  - Reflection +
   - The diamond problem
 - GRASP
   - Information expert
@@ -64,28 +64,28 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
+  - Singleton *
+  - Factory Method ~
+  - Abstract Factory ~
+  - Adapter ~
+  - Observer *
+  - Strategy ~
   - Facade
   - Proxy
-  - Chain of Responsibility
+  - Chain of Responsibility ~
   - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
+  - Iterator ~
+  - State ~
+  - Bridge ~
+  - Builder ~
   - Prototype
-  - Composite
-  - Decorator
+  - Composite ~
+  - Decorator ~
   - Flyweight
   - Mediator
   - Memento
   - Template Method
-  - Visitor
+  - Visitor ~
   - Reactor
   - Active object
   - Delegation
